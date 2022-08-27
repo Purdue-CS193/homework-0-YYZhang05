@@ -1,4 +1,4 @@
-# <Yiyuan Zhang>'s First CS193 Homework
+# Yiyuan Zhang's First CS193 Homework
 
 - Using the Ed discussion and getting helps conveniently.
 - The lecture and other instructions such as the instruction about homeowork 0 are very clear and can be understand easily.
